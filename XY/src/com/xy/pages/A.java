@@ -10,5 +10,9 @@ public class A {
 	public void add(){
 		
 	}
+	
+	public void sub(){
+		
+	}
 
 }
